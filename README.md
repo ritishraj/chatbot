@@ -13,7 +13,7 @@ This project allows users to interact with a virtual assistant and receive respo
 * Lightweight and beginner-friendly project structure
 
 ---
-
+ongoing..
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML, CSS, JavaScript
